@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TourNote</string>
+    <string name="no_note">You do not have any notes, please create notes from today</string>
+</resources>
